@@ -29,7 +29,7 @@ The idea was that with some more development the game could have become a chaoti
 </p>
 
 I was responsible for most of the technical aspects of the game, i.e. programming and level building.
-Music was made by my teammate Chertkov.
+Music was made by my teammate [Chertkov](https://chertkov.itch.io/).
 The tilemap used is from [Kenney](https://www.kenney.nl/).
 
 The game was made using Unity 2019
