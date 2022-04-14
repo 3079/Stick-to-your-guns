@@ -10,7 +10,7 @@ The game was made in just under 2 days for the 2020 GMTK game jam, so there's no
   <img src="https://github.com/3079/Stick-to-your-guns/blob/main/styg_1.gif?raw=true"/>
 </p>
 
-Your enemies are also slimes to whom the same rules apply (the AI is a little rough around the edges)
+Your enemies are also slimes to whom the same rules apply (the AI is a little rough around the edges though)
 
 <p align="center">
   <img src="https://github.com/3079/Stick-to-your-guns/blob/main/styg_2.gif?raw=true"/>
